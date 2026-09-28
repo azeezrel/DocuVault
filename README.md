@@ -1,24 +1,8 @@
-# DocuMind — Intelligent Personal Document Workspace & Life Administration Vault
+# DocuMind: Intelligent Personal Document Workspace & Life Administration Vault
 
 **DocuMind** is a full-stack personal digital document workspace and intelligent life administration command center. It enables individuals and administrators to securely ingest, classify, extract structured metadata from, search, and monitor important life documents—ranging from passports, national IDs, and professional certifications to insurance policies, tenancy agreements, tax filings, and financial receipts.
 
----
 
-## Table of Contents
-
-1. [Project Overview](#1-project-overview)
-2. [Key Features & Capabilities](#2-key-features--capabilities)
-3. [Technology Stack](#3-technology-stack)
-4. [System Architecture](#4-system-architecture)
-5. [Project Directory & Codebase Structure](#5-project-directory--codebase-structure)
-6. [Core Modules & State Management](#6-core-modules--state-management)
-7. [Document Ingestion & Extraction Pipeline](#7-document-ingestion--extraction-pipeline)
-8. [Role-Based Access Control (RBAC) & Admin Console](#8-role-based-access-control-rbac--admin-console)
-9. [API Endpoints Reference](#9-api-endpoints-reference)
-10. [Core Data Models (`src/types.ts`)](#10-core-data-models-srctypests)
-11. [Getting Started & Local Development](#11-getting-started--local-development)
-
----
 
 ## 1. Project Overview
 
