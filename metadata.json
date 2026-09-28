@@ -1,0 +1,6 @@
+{
+  "name": "DocuMind",
+  "description": "Personal digital document workspace and intelligent command center to securely organize, extract metadata, search, and track important life documents and dates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
